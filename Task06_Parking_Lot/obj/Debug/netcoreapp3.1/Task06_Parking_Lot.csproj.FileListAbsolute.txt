@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.exe
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.deps.json
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.dll
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\bin\Debug\netcoreapp3.1\Task06_Parking_Lot.pdb
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.dll
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.pdb
+C:\Users\Kiril\Advanced_CSharp\03_Sets_and_Dictionaries_Advanced_Lab\Task06_Parking_Lot\obj\Debug\netcoreapp3.1\Task06_Parking_Lot.genruntimeconfig.cache
